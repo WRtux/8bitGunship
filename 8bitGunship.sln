@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GenNotes", "GenNotes\GenNotes.vcxproj", "{E1014F78-8480-49DA-8146-D582C5AF297A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GenImages", "GenImages\GenImages.vcxproj", "{233D3F56-5833-448A-A3DD-2086C4336B5F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "8bitGunship-UPX", "8bitGunship-UPX\8bitGunship-UPX.vcxproj", "{78C96422-D9D6-4F81-BB79-5026B8257DF9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "8bitGunship", "8bitGunship\8bitGunship.vcxproj", "{CD6B6E36-AE48-40C0-97A5-EF5C7CFE7B47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1014F78-8480-49DA-8146-D582C5AF297A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E1014F78-8480-49DA-8146-D582C5AF297A}.Debug|Win32.Build.0 = Debug|Win32
+		{E1014F78-8480-49DA-8146-D582C5AF297A}.Release|Win32.ActiveCfg = Release|Win32
+		{E1014F78-8480-49DA-8146-D582C5AF297A}.Release|Win32.Build.0 = Release|Win32
+		{233D3F56-5833-448A-A3DD-2086C4336B5F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{233D3F56-5833-448A-A3DD-2086C4336B5F}.Debug|Win32.Build.0 = Debug|Win32
+		{233D3F56-5833-448A-A3DD-2086C4336B5F}.Release|Win32.ActiveCfg = Release|Win32
+		{233D3F56-5833-448A-A3DD-2086C4336B5F}.Release|Win32.Build.0 = Release|Win32
+		{78C96422-D9D6-4F81-BB79-5026B8257DF9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{78C96422-D9D6-4F81-BB79-5026B8257DF9}.Debug|Win32.Build.0 = Debug|Win32
+		{78C96422-D9D6-4F81-BB79-5026B8257DF9}.Release|Win32.ActiveCfg = Release|Win32
+		{78C96422-D9D6-4F81-BB79-5026B8257DF9}.Release|Win32.Build.0 = Release|Win32
+		{CD6B6E36-AE48-40C0-97A5-EF5C7CFE7B47}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CD6B6E36-AE48-40C0-97A5-EF5C7CFE7B47}.Debug|Win32.Build.0 = Debug|Win32
+		{CD6B6E36-AE48-40C0-97A5-EF5C7CFE7B47}.Release|Win32.ActiveCfg = Release|Win32
+		{CD6B6E36-AE48-40C0-97A5-EF5C7CFE7B47}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
